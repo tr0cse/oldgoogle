@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+p{
+    margin-bottom: 0px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.upperbox{
+    background-color: rgb(215, 216, 255);
+    width: 1000px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    float: inline-start
+
+}
+.clear{
+    clear: both;
+}
+.lowerbox{
+    width: 27%;
+    padding: 3%;
+    float:left;
+}
+.first-bg{
+    background: rgb(0, 195, 255);
+}
+.second-bg{
+    background: rgb(0, 68, 255);
+}
+.last-bg{
+    background: rgb(5, 78, 107);
+}
+.lanet{
+    font-size: 13px;
+    padding: 20px;
+}
